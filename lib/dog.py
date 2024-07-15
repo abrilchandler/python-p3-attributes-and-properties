@@ -14,7 +14,7 @@ APPROVED_BREEDS = [
 
 class Dog:
     
-     def __init__(self, name="Spot", breed="Mutt"):
+     def __init__(self, name="Spot", breed="Mastiff"):
          self.name = name 
          self.breed = breed
  #method name is .name and returns the value of _name which is the value of name
